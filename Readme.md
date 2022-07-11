@@ -1,4 +1,4 @@
-# Docker action "Hola Mundo"
+# Docker action "Hola Mundo v2"
 
 Esta action imprime "Hola Mundo" o "Hola" + el nombre de la persona al log.
 
